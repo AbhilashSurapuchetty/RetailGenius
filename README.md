@@ -132,7 +132,8 @@ The dataset contains ~73,000 rows with the following sample columns:
 
 ## ✍️ Authors
 
-- Team Member: Abhilash Surapuchetty
+- Team Leader : Abhilash Surapuchetty
+- Team Members: Abhilash Surapuchetty , Yadala Venkata Siva Surya , Satya Sai Ramesh and Naganna Dora Sastry.
 
 ---
 
