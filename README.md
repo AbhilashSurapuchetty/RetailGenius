@@ -145,4 +145,4 @@ This project is for academic and learning purposes only.
 Feel free to reach out for collaboration, queries, or feedback!
 
 - **📧 Email**: [alash0849@gmail.com](mailto:alash0849@gmail.com)  
-- **🔗 LinkedIn**: [Abhilash Surapuchetty](www.linkedin.com/in/abhilash-surapuchetty-baa0a4267)
+- **🔗 LinkedIn**: [Abhilash Surapuchetty](https://www.linkedin.com/in/abhilash-surapuchetty-baa0a4267/)
