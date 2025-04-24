@@ -139,3 +139,10 @@ The dataset contains ~73,000 rows with the following sample columns:
 ## 📄 License
 
 This project is for academic and learning purposes only.
+
+## 📬 Contact Us
+
+Feel free to reach out for collaboration, queries, or feedback!
+
+- **📧 Email**: [alash0849@gmail.com](mailto:alash0849@gmail.com)  
+- **🔗 LinkedIn**: [Abhilash Surapuchetty](www.linkedin.com/in/abhilash-surapuchetty-baa0a4267)
